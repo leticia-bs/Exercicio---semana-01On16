@@ -29,4 +29,4 @@ Em resumo, são ferramentas que permitem o compartilhamento de trechos de códig
 - Códigos desnecessários
 
 
-Fontes [1] (https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/) [2] (https://blog.betrybe.com/framework-de-programacao/o-que-e-framework/#o-que-e-famework) [3] (https://coodesh.com/blog/dicionario/o-que-e-biblioteca/#:~:text=O%20conceito%20%C3%A9%20o%20mesmo,j%C3%A1%20foram%20escritas%20por%20desenvolvedores) [4] (https://tableless.github.io/iniciantes/manual/js/o-que-framework.html) [5] (https://www.dio.me/articles/biblioteca-vs-framework)
+Fontes [.] (https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/) [.] (https://blog.betrybe.com/framework-de-programacao/o-que-e-framework/#o-que-e-famework) [.] (https://coodesh.com/blog/dicionario/o-que-e-biblioteca/#:~:text=O%20conceito%20%C3%A9%20o%20mesmo,j%C3%A1%20foram%20escritas%20por%20desenvolvedores) [.] (https://tableless.github.io/iniciantes/manual/js/o-que-framework.html) [.] (https://www.dio.me/articles/biblioteca-vs-framework)
